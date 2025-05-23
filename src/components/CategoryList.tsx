@@ -11,7 +11,7 @@ const CategoryList = () => {
       Electronics: '/images/img1.jpeg',
       Accessories: '/images/categories/furniture.jpg',
       SpareParts: '/images/img2.jpeg',
-      Phone Display: '/images/categories/books.jpg',
+      PhoneDisplay: '/images/img3.jpg',
       // Add more mappings as needed
     };
     // Fallback to a placeholder if not found
